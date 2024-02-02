@@ -1,0 +1,30 @@
+main div{
+    height: 100vh;
+}
+html {
+    scroll-behavior: smooth;
+}
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    color: azure;
+    transition: all 0.5s;
+}
+nav a:hover {
+    color: black;
+}
+nav {
+    background-color: grey;
+    height: 30px;
+    text-align: center;
+}
+/* main:nth-child(1){
+    background-color: rgb(59, 59, 213);
+}
+main:nth-child(2){
+    background-color: bisque;
+}
+main:nth-child(3){
+    background-color: brown;
+} */
